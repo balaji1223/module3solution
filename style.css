@@ -59,13 +59,13 @@ li{
 	margin: 0;
 	width: 100%;
 	background-color: #e3e1c6;
-	border-bottom: 1px solid blue;
+	border-bottom: 1px solid green;
 	color: #000080;
 	display: block;
 }
 
 .menu-item:hover{
-	background-color: pink;
+	background-color: yellow;
 	color: orange;
 }
 
